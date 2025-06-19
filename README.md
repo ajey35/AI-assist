@@ -1,16 +1,22 @@
 # AI Chat Assistant
 
 A modern, production-ready AI chat assistant built with React Native and Expo, featuring voice capabilities, animated avatar, and beautiful themes.
-![WhatsApp Image 2025-06-19 at 21 31 26_426fda46](https://github.com/user-attachments/assets/bdfcc46d-ba6f-4467-a745-0c56d1c7ae9f)
-![WhatsApp Image 2025-06-19 at 21 31 26_53b7f262](https://github.com/user-attachments/assets/01c3ed4c-1994-4ca3-8bb3-2dad7e1339a6)
-![WhatsApp Image 2025-06-19 at 21 31 25_306f8a65](https://github.com/user-attachments/assets/86670d2c-e470-454b-a100-611570e6a7e3)
-![WhatsApp Image 2025-06-19 at 21 31 25_ef55eb40](https://github.com/user-attachments/assets/25e32ce8-c89d-4d28-a258-33a0da3059ee)
-![WhatsApp Image 2025-06-19 at 21 31 24_6a3ee6fd](https://github.com/user-attachments/assets/9dee0c12-41dd-47b5-b2d6-ed4743db868e)
-![WhatsApp Image 2025-06-19 at 21 31 24_07941754](https://github.com/user-attachments/assets/f23baf9b-7f4d-47e0-b4d4-a66429c16b04)
-![WhatsApp Image 2025-06-19 at 21 31 24_84f8c709](https://github.com/user-attachments/assets/350fb4bb-de02-4c9a-aa2a-7c3ceb007b95)
 
-
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/bdfcc46d-ba6f-4467-a745-0c56d1c7ae9f" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/01c3ed4c-1994-4ca3-8bb3-2dad7e1339a6" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/86670d2c-e470-454b-a100-611570e6a7e3" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/25e32ce8-c89d-4d28-a258-33a0da3059ee" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9dee0c12-41dd-47b5-b2d6-ed4743db868e" width="250"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f23baf9b-7f4d-47e0-b4d4-a66429c16b04" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/350fb4bb-de02-4c9a-aa2a-7c3ceb007b95" width="250"/></td>
+  </tr>
+</table>
 
 
 
